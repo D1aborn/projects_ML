@@ -4,7 +4,7 @@
 
 2. Анализ рыночной стоимости объектов недвижимости (Analysis_of_the_cost_of_apartments https://github.com/D1aborn/projects_ML/tree/main/Analysis_of_the_cost_of_apartments).
 
-3. Анализ продаж компьютерных игр и выявление закономерностей, определяющих их успешность (Analysis_sales_computer_games).
+3. Анализ продаж компьютерных игр и выявление закономерностей, определяющих их успешность (Analysis_sales_computer_games https://github.com/D1aborn/projects_ML/tree/main/Analysis_sales_computer_games).
 
 4. Защита персональных данных клиентов с помощью преобразования данных (Insurance_company_data_protection).
 

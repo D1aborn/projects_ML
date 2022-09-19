@@ -10,7 +10,7 @@
 
 5. Построение модели машинного обучения для определения месторождений нефти, разработка которых принесет наибольшую прибыль (ML_models_for_determining_oil_fields https://github.com/D1aborn/projects_ML/tree/main/ML_models_for_determining_oil_fields).
 
-6. Построение моделей машинного обучения для прогнозирования ухода клиентов из банка (ML_models_to_predict_exit_from_bank).
+6. Построение моделей машинного обучения для прогнозирования ухода клиентов из банка (ML_models_to_predict_exit_from_bank https://github.com/D1aborn/projects_ML/tree/main/ML_models_to_predict_exit_from_bank).
 
 7. Построение моделей машинного обучения для рекомендации тарифа сотовой связи (ML_models_to_recommend_tariff).
 

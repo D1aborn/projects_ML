@@ -8,7 +8,7 @@
 
 4. Защита персональных данных клиентов с помощью преобразования данных (Insurance_company_data_protection https://github.com/D1aborn/projects_ML/tree/main/Insurance_company_data_protection).
 
-5. Построение модели машинного обучения для определения месторождений нефти, разработка которых принесет наибольшую прибыль (ML_models_for_determining_oil_fields).
+5. Построение модели машинного обучения для определения месторождений нефти, разработка которых принесет наибольшую прибыль (ML_models_for_determining_oil_fields https://github.com/D1aborn/projects_ML/tree/main/ML_models_for_determining_oil_fields).
 
 6. Построение моделей машинного обучения для прогнозирования ухода клиентов из банка (ML_models_to_predict_exit_from_bank).
 

@@ -14,7 +14,7 @@
 
 7. Построение моделей машинного обучения для рекомендации тарифа сотовой связи (ML_models_to_recommend_tariff https://github.com/D1aborn/projects_ML/tree/main/ML_models_to_recommend_tariff).
 
-8. Построение модели оптимизации производства, на примере золотодобывающего предприятия (Optimization_work_of_gold_mining).
+8. Построение модели оптимизации производства, на примере золотодобывающего предприятия (Optimization_work_of_gold_mining https://github.com/D1aborn/projects_ML/tree/main/Optimization_work_of_gold_mining).
 
 ***
 

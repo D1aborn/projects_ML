@@ -2,7 +2,7 @@
 
 1. Анализ поведения пользователей тарифных планов оператора сотовой связи и подготовка предложений по выбору наилучшего тарифного план (Analysis_of_tariff_plans https://github.com/D1aborn/projects_ML/tree/main/Analysis_of_tariff_plans).
 
-2. Анализ рыночной стоимости объектов недвижимости (Analysis_of_the_cost_of_apartments).
+2. Анализ рыночной стоимости объектов недвижимости (Analysis_of_the_cost_of_apartments https://github.com/D1aborn/projects_ML/tree/main/Analysis_of_the_cost_of_apartments).
 
 3. Анализ продаж компьютерных игр и выявление закономерностей, определяющих их успешность (Analysis_sales_computer_games).
 

@@ -76,9 +76,11 @@ T — доля золота в отвальных хвостах после фл
 
 ### $Итоговое\ sMAPE = 25$% $\times sMAPE(rougher) + 75$% $\times sMAPE(final)$ 
 
+*Статус проекта - завершен.*
+ 
 ---
 
-**План работы**
+**Ход работы**
 
 1. Обзор и подготовка данных:
     
@@ -108,7 +110,7 @@ T — доля золота в отвальных хвостах после фл
 
 ---
 
-**Используемые библиотеки:**
+**Стек технологий проекта:**
 
 - pandas
 - sklearn
@@ -118,3 +120,9 @@ T — доля золота в отвальных хвостах после фл
 - scipy 
 - copy
 - seaborn
+
+---
+
+**Для просмотра проекта:**
+ - используйте файл: *Optimization_work_of_gold_mining.ipynb*;
+ - или пройдите по ссылке: https://github.com/D1aborn/projects_ML/blob/main/Optimization_work_of_gold_mining/Optimization_work_of_gold_mining.ipynb

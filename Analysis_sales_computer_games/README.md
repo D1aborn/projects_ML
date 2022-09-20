@@ -55,4 +55,4 @@
 
 **Для просмотра проекта:**
  - используйте файл: *Analysis_sales_computer_games.ipynb*;
- - или пройдите по ссылке https://github.com/D1aborn/projects_ML/blob/main/Analysis_sales_computer_games/Analysis_sales_computer_games.ipynb
+ - или пройдите по ссылке: https://github.com/D1aborn/projects_ML/blob/main/Analysis_sales_computer_games/Analysis_sales_computer_games.ipynb

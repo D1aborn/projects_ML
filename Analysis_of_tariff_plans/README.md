@@ -27,7 +27,7 @@
  *Статус проекта - завершен.*
  
  Для просмотра проекта:
- - используйте файл *Analysis_of_tariff_plans.ipynb*;
+ - используйте файл: *Analysis_of_tariff_plans.ipynb*;
  - или пройдите по ссылке https://github.com/D1aborn/projects_ML/blob/main/Analysis_of_tariff_plans/Analysis_of_tariff_plans.ipynb
 
 ---

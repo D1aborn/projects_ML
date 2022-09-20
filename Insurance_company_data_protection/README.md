@@ -48,5 +48,5 @@
 ---
 
 **Для просмотра проекта:**
- - используйте файл: *Insurance_company_data_protection.ipynbb*;
+ - используйте файл: *Insurance_company_data_protection.ipynb*;
  - или пройдите по ссылке: https://github.com/D1aborn/projects_ML/blob/main/Insurance_company_data_protection/Insurance_company_data_protection.ipynb
